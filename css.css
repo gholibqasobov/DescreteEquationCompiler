@@ -13,3 +13,7 @@ body{
 .red{
     color: red;
 }
+
+body{
+    background-color: rgba(87, 179, 215, 0.7);
+}
